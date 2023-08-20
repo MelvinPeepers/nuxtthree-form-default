@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <div class="container">
   
           <h1>Netlify Forms on Nuxt 3</h1>
@@ -93,9 +93,9 @@
               },
           },
       };
-  </script> -->
+  </script>
 
-
+<!-- 
   <template>
     <div class="container">
 
@@ -228,4 +228,4 @@ export default {
 }
 </script>
 
-
+ -->
