@@ -11,26 +11,26 @@
 
       <div class="row">
         <div class="column">
-          <label>Name</label>
+          <label>Name:</label>
           <input type="text" name="name" placeholder="Full name here" />
         </div>
 
         <div class="column">
-          <label for="email">Email</label>
+          <label for="email">Email:</label>
           <input type="email" name="email" placeholder="Email" />
         </div>
       </div>
 
       <div class="row">
         <div class="column">
-          <label>Title</label>
+          <label>Title:</label>
           <input type="text" name="title" placeholder="Title of message" />
         </div>
       </div>
 
       <div class="row">
         <div class="column">
-          <label>Message</label>
+          <label>Message:</label>
           <textarea
             name="message"
             placeholder="Leave your message here"
